@@ -1,0 +1,7 @@
+# Raccourcis globaux du Dofus Resource Assistant
+# Modifiez les valeurs puis enregistrez le fichier.
+# Touches possibles : F1-F12, A-Z, 0-9, ESC, SPACE, ENTER, TAB, etc.
+# Les changements sont détectés automatiquement par le logiciel.
+
+SETTINGS_KEY=F9
+TOGGLE_KEY=F8

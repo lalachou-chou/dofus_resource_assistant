@@ -1,0 +1,4 @@
+mss>=10.0
+Pillow>=11.0
+pytesseract>=0.3.13
+pystray>=0.19.5
