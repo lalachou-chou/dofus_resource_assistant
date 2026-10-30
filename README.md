@@ -1,6 +1,7 @@
 # Dofus Resource Assistant — 1.0.7
 
 Overlay Windows pour le suivi local des ressources de Dofus et la lecture OCR des coordonnées.
+En jeu depuis Dofus, permet d'afficher les ressources à proximité.
 
 
 
